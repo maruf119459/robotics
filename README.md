@@ -24,7 +24,7 @@ The **Firefighting Robot** is an innovative prototype designed to detect and ext
 ![Firefighting Robot Side View](./images/firefighting_robot_side_view.png)
 
 ### Circuit Diagram
-![Circuit Diagram](./images/firefighting_robot_circuit_diagram.png)
+![Circuit Diagram](img.png)
 
 ## How It Works
 1. **Fire Detection**: Flame sensors continuously monitor for fire.
